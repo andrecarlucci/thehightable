@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheHighTable.Server", "TheHighTable\Server\TheHighTable.Server.csproj", "{AAF70B2F-924D-4056-BD90-0A81239EBC2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheHighTable.Client", "TheHighTable\Client\TheHighTable.Client.csproj", "{2841D344-A225-4E7A-AC4B-B3FED81A7ED0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheHighTable.Shared", "TheHighTable\Shared\TheHighTable.Shared.csproj", "{69F2BBDE-7F00-4E2B-8A9A-B5500379C2B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAF70B2F-924D-4056-BD90-0A81239EBC2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF70B2F-924D-4056-BD90-0A81239EBC2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF70B2F-924D-4056-BD90-0A81239EBC2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF70B2F-924D-4056-BD90-0A81239EBC2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2841D344-A225-4E7A-AC4B-B3FED81A7ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2841D344-A225-4E7A-AC4B-B3FED81A7ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2841D344-A225-4E7A-AC4B-B3FED81A7ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2841D344-A225-4E7A-AC4B-B3FED81A7ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F2BBDE-7F00-4E2B-8A9A-B5500379C2B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F2BBDE-7F00-4E2B-8A9A-B5500379C2B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F2BBDE-7F00-4E2B-8A9A-B5500379C2B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F2BBDE-7F00-4E2B-8A9A-B5500379C2B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A1518DB-7377-4876-B14A-8B185DE25F2B}
+	EndGlobalSection
+EndGlobal
